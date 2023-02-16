@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $((128 + $TRUSKNOELRDGE))
+echo $(($TRUEKNOWLEDGE + 128))
+
